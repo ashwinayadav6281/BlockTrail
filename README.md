@@ -32,12 +32,6 @@ Many urban areas remain unsafe for women at night due to poor lighting and crime
 
 ---
 
-## 📸 Screenshots
-
-![Map with Route](https://user-images.githubusercontent.com/your-github/blocktrail-map.png)
-> Click to mark origin/destination. App computes safest walking route.
-
----
 
 ## 🧪 How It Works
 
@@ -54,9 +48,9 @@ Many urban areas remain unsafe for women at night due to poor lighting and crime
 ### Prerequisites
 
 - Node.js
-- Python 3.x
+- Python 3
 - VS Code
-- (Optional) Google Colab or Jupyter for data processing
+- Google Colab or Jupyter for data processing
 
 ---
 
@@ -118,11 +112,8 @@ BlockTrail/
 
 ## 👩‍💻 Author
 
-**Ashwin Yadav**  
+**Ashwina Yadav**  
 _IIT Kanpur | Software Engineering + Machine Learning_  
-🔗 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)  
-📧 ashwin.yadav@email.com
-
 ---
 
 ## 📜 License
